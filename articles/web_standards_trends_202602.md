@@ -29,8 +29,6 @@ https://blog.cybozu.io/entry/joining-w3c
   - HTML, CSS に関連するトピックを執筆
 - [くらっち](https://x.com/kuracchi04)
   - ECMA262 周りのトピックを執筆
-- [daiki](https://x.com/daikimkw)
-  - WinterTC 周りのトピックを執筆
 - [mehm8128](https://x.com/mehm8128)
   - 主にアクセシビリティに関連するトピックを執筆
 
