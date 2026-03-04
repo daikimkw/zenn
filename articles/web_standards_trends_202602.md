@@ -21,7 +21,7 @@ https://blog.cybozu.io/entry/joining-w3c
 また、ここでは W3C に限らず、TC39 や WHATWG などの標準化団体のトピックについても扱います。
 
 :::message
-今月の執筆者は以下の 5 名です。
+今月の執筆者は以下の 4 名です。
 
 - [Saji](https://x.com/sajikix)
   - ECMA402 (Intl) 周りのトピックを執筆
