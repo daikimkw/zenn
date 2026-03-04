@@ -7,7 +7,7 @@ published: false
 publication_name: "cybozu_frontend"
 ---
 
-こんにちは！ サイボウズ株式会社 フロントエンドエンジニアの [mehm8128 (@mehm8128)](https://x.com/mehm8128) です。
+こんにちは！ サイボウズ株式会社 フロントエンドエンジニアの [daiki (@daikimkw)](https://x.com/daikimkw) です。
 
 ## はじめに
 
